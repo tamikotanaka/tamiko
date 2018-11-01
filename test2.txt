@@ -171,4 +171,5 @@ Rule-AboutMenu.png
 Rule-Chat.png
 Rule-order.png
 Rule-popup.png
+Llfldfldslsld;gkdls
 iOS_sample.pngz
